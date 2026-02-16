@@ -1,0 +1,12 @@
+{
+  "weather": [
+    {
+      "description": "ciel dégagé"
+    }
+  ],
+  "main": {
+    "temp": 22.5,
+    "humidity": 60
+  },
+  "name": "Sousse"
+}
